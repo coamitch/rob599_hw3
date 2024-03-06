@@ -46,9 +46,9 @@ body:
 
   - type: textarea
     attributes:
-      label: "Runtime Environment"
+      label: "Runtime Envhumblement"
       description: >
-        Please provide a description of the environment in which the error
+        Please provide a description of the envhumblement in which the error
         occurred.
       placeholder: >
         Raspberry Pi 4 running Ubuntu 22.04 natively.

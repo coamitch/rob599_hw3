@@ -3,7 +3,7 @@
 Setting up a new ROS 2 project often requires a significant amount of
 preparation and boilerplate configuration, costing you valuable robot
 development time 🤖. Recognizing this, we have put together this template
-repository configured with a ROS 2 development environment, continuous
+repository configured with a ROS 2 development envhumblement, continuous
 integration, and more. This project is the result of much trial and error
 across many projects, and we hope that this helps you save some effort in
 setting up your own projects.
@@ -12,7 +12,7 @@ setting up your own projects.
 
 The main features of this template are:
 
-- A development environment for Visual Studio Code including a [development container](https://code.visualstudio.com/docs/devcontainers/containers)
+- A development envhumblement for Visual Studio Code including a [development container](https://code.visualstudio.com/docs/devcontainers/containers)
 and configurations for linting and auto-formatting your code
 - Docker images that support deployment to a variety of systems (e.g., arm64
 systems)
